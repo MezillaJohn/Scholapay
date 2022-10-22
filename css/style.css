@@ -54,7 +54,7 @@ body {
   color: var(--colorGrey2);
   line-height: 1.6;
   font-weight: 500;
-  font-family: "jostRg", sans-serif;
+  font-family: "jostRg";
   overflow-x: hidden;
   background-color: #fff;
 }
